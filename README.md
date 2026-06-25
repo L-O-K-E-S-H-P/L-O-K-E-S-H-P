@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building Spring Boot Microservices & CI/CD pipelines <br>🌱 Currently upskilling in Kubernetes, Kafka & Spring AI<br>👨‍💻 2.5 yrs exp — Java 17/21 · Spring Boot · Microservices · AWS · Docker<br>🏆 NPTEL Gold Medal in Java (IIT Kharagpur) · Top 1% Performer @ Prodapt<br>⚡ Achieved 40% query latency reduction in production<br>📍 Bangalore, India · Open to Java Full Stack roles ~10 LPA<br>
+🔭 Building Spring Boot Microservices & CI/CD pipelines <br>🌱 Currently upskilling in Kubernetes, Kafka & Spring AI<br>👨‍💻 2.5 yrs exp — Java 17/21 · Spring Boot · Microservices · AWS · Docker<br>🏆 NPTEL Gold Medal in Java (IIT Kharagpur) · Top 1% Performer @ Prodapt<br>⚡ Achieved 40% query latency reduction in production<br>📍 Bangalore, India · Open to Java Full Stack roles<br>
 
 
 ## 🌐 Socials:
